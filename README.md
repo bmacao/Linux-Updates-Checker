@@ -3,6 +3,7 @@
 Get server report for updates available ( Debian based )
 
 Get all updates and security updates ( plus CVE ) from servers and combine them in a single file as JSON.
+
 !Construct website/service to visualize the data created! or open JSON file and enjoy :) !
 
 Depends:
